@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=96CDFF&text=Thank&nbsp;you&nbsp;for&nbsp;visiting&nbsp;my&nbsp;github&nbsp;profile.&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55" />
 
 <div>
@@ -34,14 +34,15 @@
 </div><br />
 
 <br /><br />
-
+-->
 <div>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmg5909&layout=compact&theme=buefy"><br /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=jmg5909&show_icons=true&theme=buefy"> -->
 </div>
 <br />
-
+<!-- 
 <div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=96CDFF&height=200&section=footer" />
 </div>
+-->
 </div>
